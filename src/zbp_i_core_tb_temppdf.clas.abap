@@ -1,0 +1,5 @@
+CLASS zbp_i_core_tb_temppdf DEFINITION PUBLIC ABSTRACT FINAL FOR BEHAVIOR OF zi_core_tb_temppdf.
+ENDCLASS.
+
+CLASS zbp_i_core_tb_temppdf IMPLEMENTATION.
+ENDCLASS.
