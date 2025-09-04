@@ -1,6 +1,0 @@
-@EndUserText.label: 'ZR_TBREPORT'
-@MappingRole: true
-define role ZR_TBREPORT {
-  grant select on ZR_TBREPORT
-  where TRUE;
-}
